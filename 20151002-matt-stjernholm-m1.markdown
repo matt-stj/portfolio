@@ -9,6 +9,7 @@ While I checked the bucket that I had 50-1000 hours of programming experience co
 ### End of Module Assessment
 
 Assessed By: Andrew
+
 Challenge: Highest Scoring Word
 
 Notes:
@@ -49,7 +50,7 @@ Missed 1/2 day on afternoon of Friday, 9/4 for a wedding.
 
 ### Work
 
-Below are the individual projects that I completed -- still missing linked list from Tess.
+Below are the individual projects that I completed:
 
 #### Sorting Suite
 
@@ -59,10 +60,10 @@ Below are the individual projects that I completed -- still missing linked list 
 
 Assessed By: Josh
 
-Overall Score: 3
+#####Overall Score: 3
 
 
-Functional Expectations: 3
+#####Functional Expectations: 3
 
 #####Testing: 3
 * Can be run with mrspec
@@ -91,11 +92,11 @@ Assessed By: Tess
 
 Overall Score: 3
 
-Functional Expectations: 4
-TDD: 4
-Encapsulation: 3
-Fundamental Ruby: 3
-Looping or Recursion: 3
+* Functional Expectations: 4
+* TDD: 4
+* Encapsulation: 3
+* Fundamental Ruby: 3
+* Looping or Recursion: 3
 
 #### Binary Search Tree
 
@@ -104,7 +105,7 @@ Looping or Recursion: 3
 
 Assessed By: Josh
 
-Overall: 3
+#####Overall: 3
 
 #####Functional Expectations :3
 
@@ -131,7 +132,7 @@ Overall: 3
 
 Assessed By: Jeff
 
-Overall Score: 3
+#####Overall Score: 3
 
 * Like seeing 20 tests off the bat
 * Try to use fewer instance variables
@@ -139,10 +140,10 @@ Overall Score: 3
 * Like that you were able to brute force the read tests when struggling
 * Continue refining your testing techniques at multiple levels
 
-Overall: 3
-Fundamental Ruby: 3
-TDD: 3
-Components: 3
+* Overall: 3
+* Fundamental Ruby: 3
+* TDD: 3
+* Components: 3
 
 ## Team
 
