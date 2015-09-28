@@ -4,7 +4,7 @@
 
 ### Your Mission
 
-(What did you set out to accomplish this module?)
+While I checked the bucket that I had 50-1000 hours of programming experience coming into turing, I still felt like the projects in Echo were always just a bit beyond my reach.  After struggling through Echo the first couple of weeks, I set my sights on completing module 1 without having to drop down to Foxtrot.  Despite banging my head into the keyboard for countless hours on these projects (and consistently feeling bhind), I was satisfied with not only grinding it out through Echo, but for also receiving a 3 or higher on every evaluation.  Looking ahead, I'm hoping the extra effort in Module 1 will translate to being one step closer to my main objective of being able to build anything and everything that can be dreamt up.  
 
 ### End of Module Assessment
 
@@ -45,27 +45,38 @@ Notes:
 
 ### Attendance
 
-Missed 1/2 day on afternoon of Friday, 9/4, for a wedding.
+Missed 1/2 day on afternoon of Friday, 9/4 for a wedding.
 
 ### Work
 
-While I checked the bucket that I had 50-1000 hours of programming experience coming into turing, I still felt like the projects in Echo were always just a bit beyond my reach.  I smashed my head into the keyboard for countless hours on these projects -- but overall, I'm really satisfied with how they came out.
+Below are the individual projects that I completed -- still missing linked list from Tess.
 
 #### Sorting Suite
 
 * [GitHub URL](https://github.com/thew88/Sorting-Suite)
 * [Original Assignment](https://github.com/turingschool/sorting-suite)
 
-(description)
 
+Assessed By: Josh
+Overall Score: 3
+
+
+Functional Expectations: 3
+Testing: 3
 * Can be run with mrspec
 * All tests pass (20 examples)
 * Tests edge cases
 
-Functional Expectations: 3
-Testing: 3
 Ruby Style: 3
+* No syntax errors
+* Almost correct indentation, but was actually caused by elsif instead of else
+* Be kind to yourself: choose names that help you think about what the variable means :)
+* Style is fine
+
 Organization: 4
+* Tests in test dir, files in lib dir
+* Each class has its own file
+* Using git
 
 #### Linked List
 
@@ -74,42 +85,57 @@ Organization: 4
 
 (description)
 
-(evaluation comments)
+Assessed By: Tess
+Overall Score: 3
 
-(evaluation scores)
+Functional Expectations: 4
+TDD: 4
+Encapsulation: 3
+Fundamental Ruby: 3
+Looping or Recursion: 3
 
 #### Binary Search Tree
 
 * [GitHub URL](https://github.com/thew88/binary-search-tree)
 * [Original Assignment]()
 
-(description)
+Assessed By: Josh
+Functional Expectations :3
 
-(evaluation comments)
+TDD: 4
 
-(evaluation scores)
+* Tests all pass
+* Pretty good test names, could be a tad bit more descriptive
+* Use abstractions in test, too
+
+Encapsulation: 3
+
+* When your class uses all the shit of another class like node (this is commonly called "feature envy") that is an indicator that the functionality you are using belongs to the thing with all the attributes that you're working with.
+
+Fundamental Ruby Style: 3
+
+* Poor Indentation
+
+Enumerables & Collections: 3
 
 #### Night Writer
 
 * [GitHub URL](https://github.com/thew88/night_writer)
 * [Original Assignment]()
 
-(description)
+Assessed By: Jeff
+Overall Score: 3
 
-(evaluation comments)
+* Like seeing 20 tests off the bat
+* Try to use fewer instance variables
+* Like the method decomposition, but take it one step further
+* Like that you were able to brute force the read tests when struggling
+* Continue refining your testing techniques at multiple levels
 
-(evaluation scores)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
+Overall: 3
+Fundamental Ruby: 3
+TDD: 3
+Components: 3
 
 ## Team
 
