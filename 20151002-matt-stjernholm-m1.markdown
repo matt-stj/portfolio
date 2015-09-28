@@ -62,18 +62,19 @@ Overall Score: 3
 
 
 Functional Expectations: 3
-Testing: 3
+
+#####Testing: 3
 * Can be run with mrspec
 * All tests pass (20 examples)
 * Tests edge cases
 
-Ruby Style: 3
+#####Ruby Style: 3
 * No syntax errors
 * Almost correct indentation, but was actually caused by elsif instead of else
 * Be kind to yourself: choose names that help you think about what the variable means :)
 * Style is fine
 
-Organization: 4
+#####Organization: 4
 * Tests in test dir, files in lib dir
 * Each class has its own file
 * Using git
@@ -100,23 +101,25 @@ Looping or Recursion: 3
 * [Original Assignment]()
 
 Assessed By: Josh
-Functional Expectations :3
+Overall: 3
 
-TDD: 4
+#####Functional Expectations :3
+
+#####TDD: 4
 
 * Tests all pass
 * Pretty good test names, could be a tad bit more descriptive
 * Use abstractions in test, too
 
-Encapsulation: 3
+#####Encapsulation: 3
 
 * When your class uses all the shit of another class like node (this is commonly called "feature envy") that is an indicator that the functionality you are using belongs to the thing with all the attributes that you're working with.
 
-Fundamental Ruby Style: 3
+#####Fundamental Ruby Style: 3
 
 * Poor Indentation
 
-Enumerables & Collections: 3
+#####Enumerables & Collections: 3
 
 #### Night Writer
 
