@@ -58,6 +58,7 @@ Below are the individual projects that I completed -- still missing linked list 
 
 
 Assessed By: Josh
+
 Overall Score: 3
 
 
@@ -87,6 +88,7 @@ Functional Expectations: 3
 (description)
 
 Assessed By: Tess
+
 Overall Score: 3
 
 Functional Expectations: 4
@@ -101,6 +103,7 @@ Looping or Recursion: 3
 * [Original Assignment]()
 
 Assessed By: Josh
+
 Overall: 3
 
 #####Functional Expectations :3
@@ -127,6 +130,7 @@ Overall: 3
 * [Original Assignment]()
 
 Assessed By: Jeff
+
 Overall Score: 3
 
 * Like seeing 20 tests off the bat
