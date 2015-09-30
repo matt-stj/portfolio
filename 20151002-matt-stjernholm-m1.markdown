@@ -146,7 +146,7 @@ Assessed By: Jeff
 
 ### Group Projects
 
-Headcount was a beast.  Although I was exhausted and stretched to my limits, I'm happy and proud to be finished with it :)
+Headcount was a beast.  Although it stretched to my limits, I'm happy and proud to be finished with it :)
 
 #### Headcount
 
