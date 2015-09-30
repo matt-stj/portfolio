@@ -10,6 +10,8 @@ While I checked the bucket that I had 50-1000 hours of programming experience co
 
 Assessed By: Andrew
 
+Overall Score: 3
+
 Challenge: Highest Scoring Word
 
 Notes:
@@ -137,25 +139,24 @@ Assessed By: Jeff
 * Like that you were able to brute force the read tests when struggling
 * Continue refining your testing techniques at multiple levels
 
-* Overall: 3
 * Fundamental Ruby: 3
 * TDD: 3
 * Components: 3
 
 ## Team
 
-### Projects
+### Group Projects
 
 Headcount was a beast.  I'm happy and proud to be finished with it :)
 
-#### (Project Name)
+#### Headcount
 
-* [GitHub URL]()
-* [Original Assignment]()
+* https://github.com/thew88/headcount
+* https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown
 
-(description)
 
 Assessed By Josh
+Teammate: Ross Edfort
 Overall Score: 3
 
 #####1. Overall Functionality
@@ -187,9 +188,6 @@ Score: 3
 * For example, we might make a DistrictRepository from some JSON data, or some SQL data,
 or a hash for a test. So lets not inherit from LoadCSV.
 
-(evaluation scores)
-
-(feedback to me)
 
 ## Community
 
@@ -199,11 +197,15 @@ or a hash for a test. So lets not inherit from LoadCSV.
 
 ### Being a Community Member
 
-(feedback to me)
+*  "Matt was an incredibly easy person to get along with and work with. When we divided responsibilities Matt always came back with his share completed. When we paired he was constantly contributing to the task at hand and had useful insights. His knowledge and work ethic were extremely admirable. Overall, I would be thrilled to work with Matt on a future project." -- Ross Edfort (Headcount Partner)
+
+* "Working with Matt during this module has been a pleasure. His motivation and dedication inspires me to continue to push when feeling tired or discouraged. I have improved my programming and pairing skills this module with Matt’s help. I have observed Matt being willing and excited to help all cohort-mates whenever he is given the opportunity." -- Jason Pilz (The *original* O.G.)
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+* Trying to help others on projects that I've done -- removing roadblocks and helping them move past pieces that had me banging my head against the keyboard for hours.
+
+* Writing additional tests for the Headcount Spec Harness that the class needed to finish the project.  Also, spending 3+ hours on the night headcount was due to help people troubleshoot issues they were having with out tests.
 
 ## Review
 
