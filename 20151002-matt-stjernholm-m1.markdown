@@ -46,7 +46,7 @@ Notes:
 
 ### Attendance
 
-Missed 1/2 day on afternoon of Friday, 9/4 for a wedding.
+Missed 1/2 day on afternoon of Friday, 9/4 for a wedding, but other than that I've been present and on time for every class.
 
 ### Work
 
@@ -56,7 +56,6 @@ Below are the individual projects that I completed:
 
 * [GitHub URL](https://github.com/thew88/Sorting-Suite)
 * [Original Assignment](https://github.com/turingschool/sorting-suite)
-
 
 Assessed By: Josh  
 ##### Overall Score: 3
@@ -142,12 +141,12 @@ Assessed By: Jeff
 * TDD: 3
 * Components: 3
 * Fundamental Ruby: 3
- 
+
 ## Team
 
 ### Group Projects
 
-Headcount was a beast.  Although I was exhausted and stretched to my limilts I'm happy and proud to be finished with it :)
+Headcount was a beast.  Although I was exhausted and stretched to my limits, I'm happy and proud to be finished with it :)
 
 #### Headcount
 
@@ -200,25 +199,29 @@ Teammate: Torie Joy-Warren
 
 ### Giving Feedback
 
-* For Ross Edfort - "Ross was a great partner to pair with, and a lot of the success that we had on the project was likely due to our ability to work well together.  We both have similar work styles and we're on the same page with how much time and effort we intended to put in to headcount.  There were a lot of long stretches where we sat in front of the computer, stumped on a problem for hours, and relied on each other to keep putting one foot in front of the other.  After week of countless hours, expletive-filled-rants, and high fives, we learned a ton more about programming and also built rapport with one another that we likely would not have found otherwise.  Overall: great first experience for a pairing project!"
+* For Ross Edfort - *"Ross was a great partner to pair with, and a lot of the success that we had on the project was likely due to our ability to work well together.  We both have similar work styles and we're on the same page with how much time and effort we intended to put in to headcount.  There were a lot of long stretches where we sat in front of the computer, stumped on a problem for hours, and relied on each other to keep putting one foot in front of the other.  After week of countless hours, expletive-filled-rants, and high fives, we learned a ton more about programming and also built rapport with one another that we likely would not have found otherwise.  Overall: great first experience for a pairing project!"*
 
-* For Jason Pilz - "Jason consistently pushed me to be a better student throughout Module 1.  His positive outlook and “you can do it” attitude is a big reason why I stuck around in the Echo group — which I’m extremely grateful for.  On top of that, Jason showed me countless keybinding shortcuts, Atom add-ons, and tricks that streamlined my workflow and made me more efficient.  Can’t imagine where I’d be without Jason, and I look forward to having him around next module!"
+* For Jason Pilz - *"Jason consistently pushed me to be a better student throughout Module 1.  His positive outlook and “you can do it” attitude is a big reason why I stuck around in the Echo group — which I’m extremely grateful for.  On top of that, Jason showed me countless keybinding shortcuts, Atom add-ons, and tricks that streamlined my workflow and made me more efficient.  Can’t imagine where I’d be without Jason, and I look forward to having him around next module!"*
+
+* For Torie Joy-Warren - *“Torie has been a great classmate and teammate for the entirety of our first module.  She was always willing to lend  helping hand when I had questions on things that she’d already figured out, and she was always patient and thorough with her explanations.  I was lucky enough to have Torie as a partner for multiple pairing exercises and one team project.  Her positive attitude and kind demeanor were always fun to be around, and I learned a great deal from her each time we’ve paired.  I’ve seen her act in this capacity, not only for me, but for many others in 1508 -- we’re lucky to have her."*
 
 ### Being a Community Member
 
-*  "Matt was an incredibly easy person to get along with and work with. When we divided responsibilities Matt always came back with his share completed. When we paired he was constantly contributing to the task at hand and had useful insights. His knowledge and work ethic were extremely admirable. Overall, I would be thrilled to work with Matt on a future project."   
+*  *"Matt was an incredibly easy person to get along with and work with. When we divided responsibilities Matt always came back with his share completed. When we paired he was constantly contributing to the task at hand and had useful insights. His knowledge and work ethic were extremely admirable. Overall, I would be thrilled to work with Matt on a future project.*    
 -- Ross Edfort (Headcount Partner)
 
-* "Working with Matt during this module has been a pleasure. His motivation and dedication inspires me to continue to push when feeling tired or discouraged. I have improved my programming and pairing skills this module with Matt’s help. I have observed Matt being willing and excited to help all cohort-mates whenever he is given the opportunity."   
+* *"Working with Matt during this module has been a pleasure. His motivation and dedication inspires me to continue to push when feeling tired or discouraged. I have improved my programming and pairing skills this module with Matt’s help. I have observed Matt being willing and excited to help all cohort-mates whenever he is given the opportunity."*     
 -- Jason Pilz (The *original* O.G.)
+
+* *"Matt was great to work with, because he was a rare mix of very relaxed while
+still caring a lot about the project. He didn't seem afraid to share ideas at all but also always listened to and (more importantly) considered any ideas I had, which made for a great working relationship. He's also just generally pleasant to be around - which has been much appreciated throughout the entire module."*  
+-- Torie Joy-Warren
 
 ### Playing a Part  
 
-* Trying to help others on projects that I've done -- removing roadblocks and helping them move past pieces that they're stuck on.
+Through Module 1, I've tried to help others anywhere that I could.  From removing roadblocks and helping them move past pieces that stumped me, to lending a hand on new projects that I haven't seen before. I've been on the receiving end of lots of great help during my first six weeks, and it's nice to be able to reciprocate that as well.
 
-* Staying
-
-* Writing additional tests for the Headcount Spec Harness that the class needed to finish the project.  Also, spending 3+ hours on the night headcount was due to help people troubleshoot issues they were having with out tests.
+* Writing additional tests for the Headcount Spec Harness that the class needed to finish the project.  Also, spending a few hours on the night headcount was due to help people troubleshoot issues they were having with out tests.
 
 ## Review
 
