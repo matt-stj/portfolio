@@ -57,6 +57,8 @@ Below are the individual projects that I completed:
 * [GitHub URL](https://github.com/thew88/Sorting-Suite)
 * [Original Assignment](https://github.com/turingschool/sorting-suite)
 
+The sorting-suite was a fun, but difficult first project for Echo. However, I think it really helped to galvanize the Echo group early on.  Most of the class came in on Saturday to meet with Josh and figure out what the hell we were doing, and I that seemd to set the pace for the rest of the module.
+
 Assessed By: Josh  
 ##### Overall Score: 3
 
@@ -85,6 +87,8 @@ Assessed By: Josh
 * [GitHub URL](https://github.com/thew88/linked-lists)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown)
 
+Was really tough to grasp at first, but as soon as I stopped trying to understand the ins-and-outs of linked lists/stated writing code, it became much easier.  Great intro to data structures.
+
 Assessed By: Tess   
 ##### Overall Score: 3
 
@@ -98,6 +102,8 @@ Assessed By: Tess
 
 * [GitHub URL](https://github.com/thew88/binary-search-tree)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
+
+Really proud with the progress that I was able to make on this project -- wthout using recusion.  Ended up writing a ton of code to make it all work, but feel like it came together really well.
 
 Assessed By: Josh   
 ##### Overall: 3
@@ -127,6 +133,7 @@ Assessed By: Josh
 * [GitHub URL](https://github.com/thew88/night_writer)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
+One of the more frustrating projects for me -- made a ton of progress early on, but stalled out after a couple days because some of my File I/O "wiring" was wrong.
 
 Assessed By: Jeff   
 ##### Overall Score: 3
@@ -184,6 +191,8 @@ or a hash for a test. So lets not inherit from LoadCSV.*
 
 * [GitHub URL](https://github.com/toriejw/http-yeah-you-know-me)  
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
+
+Cool intro to servers - happy we did this project :)
 
 Assessed By Josh  
 Teammate: Torie Joy-Warren  
