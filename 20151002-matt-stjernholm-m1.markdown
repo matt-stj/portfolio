@@ -4,7 +4,7 @@
 
 ### Your Mission
 
-While I checked the bucket that I had 50-1000 hours of programming experience coming into turing, I still felt like the projects in Echo were always just a bit beyond my reach.  After struggling through Echo the first couple of weeks, I set my sights on completing module 1 without having to drop down to Foxtrot.  Despite banging my head into the keyboard for countless hours on these projects (and consistently feeling bhind), I was satisfied with not only grinding it out through Echo, but for also receiving a 3 or higher on every evaluation.  Looking ahead, I'm hoping the extra effort in Module 1 will translate to being one step closer to my main objective of being able to build anything and everything that can be dreamt up.  
+While I checked the bucket that I had 50-1000 hours of programming experience coming into turing, I still felt like the projects in Echo were always just a bit beyond my reach.  After struggling through Echo the first couple of weeks, I set my sights on completing module 1 without having to drop down to Foxtrot.  Despite banging my head into the keyboard for countless hours on these projects (and consistently feeling behind), I was satisfied with not only grinding it out through Echo, but for also working hard enough to never get lower than a 3 on an evaluation.  Looking ahead, I'm hoping the extra effort in Module 1 will translate to putting me one step closer to my main goal for post-Turing life -- being able to build anything that I can dream up.  
 
 ### End of Module Assessment
 
@@ -86,7 +86,7 @@ Assessed By: Josh
 * [GitHub URL](https://github.com/thew88/linked-lists)
 * [GitHub URL](https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown)
 
-Assessed By: Tess  
+Assessed By: Tess   
 #####Overall Score: 3
 
 * Functional Expectations: 4
@@ -100,7 +100,7 @@ Assessed By: Tess
 * [GitHub URL](https://github.com/thew88/binary-search-tree)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
 
-Assessed By: Josh  
+Assessed By: Josh   
 #####Overall: 3
 
 #####Functional Expectations :3
@@ -129,7 +129,7 @@ Assessed By: Josh
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
 
-Assessed By: Jeff  
+Assessed By: Jeff   
 #####Overall Score: 3
 
 * Like seeing 20 tests off the bat
@@ -137,6 +137,7 @@ Assessed By: Jeff
 * Like the method decomposition, but take it one step further
 * Like that you were able to brute force the read tests when struggling
 * Continue refining your testing techniques at multiple levels
+
 
 * Fundamental Ruby: 3
 * TDD: 3
@@ -146,7 +147,7 @@ Assessed By: Jeff
 
 ### Group Projects
 
-Headcount was a beast.  I'm happy and proud to be finished with it :)
+Headcount was a beast.  Although I was exhausted and stretched to my limilts I'm happy and proud to be finished with it :)
 
 #### Headcount
 
@@ -177,6 +178,22 @@ Overall Score: 3
 * LoadCSV and DistrictRepository should ideally know very little about each other.
 * For example, we might make a DistrictRepository from some JSON data, or some SQL data,
 or a hash for a test. So lets not inherit from LoadCSV.
+
+
+------
+#### HTTP_yeah_you_know_me
+
+* [GitHub URL](https://github.com/toriejw/http-yeah-you-know-me)  
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
+
+Assessed By Josh  
+Teammate: Torie Joy-Warren  
+
+##### 1. Overall Functionality: 4  
+##### 2. Test Driven Development: 3.5  
+##### 3. Code Sanitation: true  
+##### 4. Adoration Points: none  
+##### 5. Knowledge Retention: Both members got 10/10
 
 
 ## Community
