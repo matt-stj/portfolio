@@ -5,7 +5,7 @@
 ### Your Mission
 
 While I checked the bucket that I had 50-1000 hours of programming experience coming into turing, I still felt like the projects in Echo were always just a bit beyond my reach.  After struggling through Echo the first couple of weeks, I set my sights on completing module 1 without having to drop down to Foxtrot.  Despite banging my head into the keyboard for countless hours on these projects (and consistently feeling behind), I was satisfied with not only grinding it out through Echo, but for also working hard enough to never get lower than a 3 on an evaluation.  Looking ahead, I'm hoping the extra effort in Module 1 will translate to putting me one step closer to my main goal for post-Turing life -- being able to build anything that I can dream up.  
------------
+
 ### End of Module Assessment
 
 Assessed By: Andrew  
@@ -43,11 +43,11 @@ Notes:
 ##### 6. Collaboration - 3
 
 * 3: Developer lays out their thinking *before* attacking a problem and integrates feedback through the process
------------
+
 ### Attendance
 
 Missed 1/2 day on afternoon of Friday, 9/4 for a wedding.
------------
+
 ### Work
 
 Below are the individual projects that I completed:
@@ -80,7 +80,7 @@ Assessed By: Josh
 * Tests in test dir, files in lib dir
 * Each class has its own file
 * Using git
------------
+
 #### Linked List
 
 * [GitHub URL](https://github.com/thew88/linked-lists)
@@ -94,7 +94,7 @@ Assessed By: Tess
 * Encapsulation: 3
 * Fundamental Ruby: 3
 * Looping or Recursion: 3
------------
+
 #### Binary Search Tree
 
 * [GitHub URL](https://github.com/thew88/binary-search-tree)
@@ -122,7 +122,7 @@ Assessed By: Josh
 ##### Enumerables & Collections: 3
 
 * No comments
---------------
+
 #### Night Writer
 
 * [GitHub URL](https://github.com/thew88/night_writer)
@@ -142,7 +142,7 @@ Assessed By: Jeff
 * TDD: 3
 * Components: 3
 * Fundamental Ruby: 3
---------
+ 
 ## Team
 
 ### Group Projects
@@ -179,7 +179,8 @@ Overall Score: 3
 * For example, we might make a DistrictRepository from some JSON data, or some SQL data,
 or a hash for a test. So lets not inherit from LoadCSV.
 
------------
+
+------
 #### HTTP_yeah_you_know_me
 
 * [GitHub URL](https://github.com/toriejw/http-yeah-you-know-me)  
@@ -193,7 +194,7 @@ Teammate: Torie Joy-Warren
 ##### 3. Code Sanitation: true  
 ##### 4. Adoration Points: none  
 ##### 5. Knowledge Retention: Both members got 10/10
------------
+
 
 ## Community
 
