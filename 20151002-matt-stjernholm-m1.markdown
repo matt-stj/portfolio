@@ -14,10 +14,10 @@ Challenge: Highest Scoring Word
 
 Notes:
 
-* Very solid with use of blocks and enumerables.
-* Testing was good, but tended to get ahead of himself and not completely drive with testing.
-* Was receptive to collaboration and advice.
-* Is very quick and comfortable with his machine, but could make some small workflow improvements and become exponentially better.
+* *Very solid with use of blocks and enumerables.*
+* *Testing was good, but tended to get ahead of himself and not completely drive with testing.*
+* *Was receptive to collaboration and advice.*
+* *Is very quick and comfortable with his machine, but could make some small workflow improvements and become exponentially better.*
 
 
 ##### 1. Ruby Syntax & API - 3
@@ -65,21 +65,21 @@ Assessed By: Josh
 * No comments.
 
 ##### Testing: 3
-* Can be run with mrspec
-* All tests pass (20 examples)
-* Tests edge cases
+* *Can be run with mrspec**
+* *All tests pass (20 examples)**
+* *Tests edge cases**
 
 ##### Ruby Style: 3
-* No syntax errors
-* Almost correct indentation, but was actually caused by elsif instead of else
-* Be kind to yourself: choose names that help you think about what the variable means :)
-* Style is fine
+* *No syntax errors*
+* *Almost correct indentation, but was actually caused by elsif instead of else*
+* *Be kind to yourself: choose names that help you think about what the variable means :)*
+* *Style is fine*
 
 ##### Organization: 4
-* Tests in test dir, files in lib dir
-* Each class has its own file
-* Using git
-
+* *Tests in test dir, files in lib dir*
+* *Each class has its own file*
+* *Using git*
+*
 #### Linked List
 
 * [GitHub URL](https://github.com/thew88/linked-lists)
@@ -106,17 +106,17 @@ Assessed By: Josh
 
 ##### TDD: 4
 
-* Tests all pass
-* Pretty good test names, could be a tad bit more descriptive
-* Use abstractions in test, too
+* *Tests all pass*
+* *Pretty good test names, could be a tad bit more descriptive*
+* *Use abstractions in test, too*
 
 ##### Encapsulation: 3
 
-* When your class uses all the shit of another class like node (this is commonly called "feature envy") that is an indicator that the functionality you are using belongs to the thing with all the attributes that you're working with.
+* *When your class uses all the shit of another class like node (this is commonly called "feature envy") that is an indicator that the functionality you are using belongs to the thing with all the attributes that you're working with.*
 
 ##### Fundamental Ruby Style: 3
 
-* Poor Indentation
+* *Poor Indentation**
 
 ##### Enumerables & Collections: 3
 
@@ -131,11 +131,11 @@ Assessed By: Josh
 Assessed By: Jeff   
 ##### Overall Score: 3
 
-* Like seeing 20 tests off the bat
-* Try to use fewer instance variables
-* Like the method decomposition, but take it one step further
-* Like that you were able to brute force the read tests when struggling
-* Continue refining your testing techniques at multiple levels
+* *Like seeing 20 tests off the bat*
+* *Try to use fewer instance variables*
+* *Like the method decomposition, but take it one step further*
+* *Like that you were able to brute force the read tests when struggling*
+* *Continue refining your testing techniques at multiple levels*
 
 
 * TDD: 3
@@ -159,24 +159,24 @@ Overall Score: 3
 
 ##### 1. Overall Functionality: 4
 
-* Passes all of the test harness methods, minus the two we discussed and decided should be changed just before sitting down to do this :P
-* Also, they wrote all the analysis methods (including the one that failed ;)
+* *Passes all of the test harness methods, minus the two we discussed and decided should be changed just before sitting down to do this :P*
+* *Also, they wrote all the analysis methods (including the one that failed ;)*
 
 ##### 2. Fundamental Ruby & Style: 3
 
-* I didn't have any issues with anything
+* *I didn't have any issues with anything*
 
 ##### 3. Test-Driven Development: 4
 
-* All unit tests pass
-* "All" test harness tests pass
-* Listened to me rant nostalgically and inpirationally, if we're completely honest, about testing for like 20 minutes or something.
+* *All unit tests pass*
+* *"All" test harness tests pass*
+* *Listened to me rant nostalgically and inpirationally, if we're completely honest, about testing for like 20 minutes or something.*
 
 ##### 4. Breaking Logic into Components: 3
 
-* LoadCSV and DistrictRepository should ideally know very little about each other.
-* For example, we might make a DistrictRepository from some JSON data, or some SQL data,
-or a hash for a test. So lets not inherit from LoadCSV.
+* *LoadCSV and DistrictRepository should ideally know very little about each other.*
+* *For example, we might make a DistrictRepository from some JSON data, or some SQL data,
+or a hash for a test. So lets not inherit from LoadCSV.*
 
 
 ------
@@ -219,9 +219,11 @@ still caring a lot about the project. He didn't seem afraid to share ideas at al
 
 ### Playing a Part  
 
-Through Module 1, I've tried to help others anywhere that I could.  From removing roadblocks and helping them move past pieces that stumped me, to lending a hand on new projects that I haven't seen before. I've been on the receiving end of lots of great help during my first six weeks, and it's nice to be able to reciprocate that as well.
+* Through Module 1, I've tried to help others anywhere that I could.  From removing roadblocks and helping them move past pieces that stumped me, to lending a hand on new projects that I haven't seen before. I've been on the receiving end of lots of great help during my first six weeks, and it's nice to be able to reciprocate that as well.
 
-* Writing additional tests for the Headcount Spec Harness that the class needed to finish the project.  Also, spending a few hours on the night headcount was due to help people troubleshoot issues they were having with out tests.
+* It also felt good to write additional tests for the Headcount Spec Harness when the class needed them to finish the project.  Ross and I spent a few hours on the night before headcount was due to help people troubleshoot issues they were having with out tests.
+
+* Outside of coding-related-things I try my best to be a kind, decent human-being to everybody here. And when I'm I'm here late enough, I help out with putting dishes away at the end of the day.
 
 ## Review
 
