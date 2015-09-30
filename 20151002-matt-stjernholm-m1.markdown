@@ -8,11 +8,9 @@ While I checked the bucket that I had 50-1000 hours of programming experience co
 
 ### End of Module Assessment
 
-Assessed By: Andrew
-
-Overall Score: 3
-
-Challenge: Highest Scoring Word
+Assessed By: Andrew  
+Challenge: Highest Scoring Word  
+#####Overall Score: 3
 
 Notes:
 
@@ -60,12 +58,12 @@ Below are the individual projects that I completed:
 * [Original Assignment](https://github.com/turingschool/sorting-suite)
 
 
-Assessed By: Josh
-
+Assessed By: Josh  
 #####Overall Score: 3
 
 
 #####Functional Expectations: 3
+* No comments.
 
 #####Testing: 3
 * Can be run with mrspec
@@ -86,12 +84,10 @@ Assessed By: Josh
 #### Linked List
 
 * [GitHub URL](https://github.com/thew88/linked-lists)
+* [GitHub URL](https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown)
 
-(description)
-
-Assessed By: Tess
-
-Overall Score: 3
+Assessed By: Tess  
+#####Overall Score: 3
 
 * Functional Expectations: 4
 * TDD: 4
@@ -102,9 +98,9 @@ Overall Score: 3
 #### Binary Search Tree
 
 * [GitHub URL](https://github.com/thew88/binary-search-tree)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
 
-Assessed By: Josh
-
+Assessed By: Josh  
 #####Overall: 3
 
 #####Functional Expectations :3
@@ -125,12 +121,15 @@ Assessed By: Josh
 
 #####Enumerables & Collections: 3
 
+* No comments
+
 #### Night Writer
 
 * [GitHub URL](https://github.com/thew88/night_writer)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
-Assessed By: Jeff
 
+Assessed By: Jeff  
 #####Overall Score: 3
 
 * Like seeing 20 tests off the bat
@@ -151,12 +150,11 @@ Headcount was a beast.  I'm happy and proud to be finished with it :)
 
 #### Headcount
 
-* https://github.com/thew88/headcount
-* https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown
-
+* [GitHub URL](https://github.com/thew88/headcount)  
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
 Assessed By Josh  
-Teammate: Ross Edfort
+Teammate: Ross Edfort  
 Overall Score: 3
 
 #####1. Overall Functionality: 4
@@ -191,13 +189,17 @@ or a hash for a test. So lets not inherit from LoadCSV.
 
 ### Being a Community Member
 
-*  "Matt was an incredibly easy person to get along with and work with. When we divided responsibilities Matt always came back with his share completed. When we paired he was constantly contributing to the task at hand and had useful insights. His knowledge and work ethic were extremely admirable. Overall, I would be thrilled to work with Matt on a future project." -- Ross Edfort (Headcount Partner)
+*  "Matt was an incredibly easy person to get along with and work with. When we divided responsibilities Matt always came back with his share completed. When we paired he was constantly contributing to the task at hand and had useful insights. His knowledge and work ethic were extremely admirable. Overall, I would be thrilled to work with Matt on a future project."   
+-- Ross Edfort (Headcount Partner)
 
-* "Working with Matt during this module has been a pleasure. His motivation and dedication inspires me to continue to push when feeling tired or discouraged. I have improved my programming and pairing skills this module with Matt’s help. I have observed Matt being willing and excited to help all cohort-mates whenever he is given the opportunity." -- Jason Pilz (The *original* O.G.)
+* "Working with Matt during this module has been a pleasure. His motivation and dedication inspires me to continue to push when feeling tired or discouraged. I have improved my programming and pairing skills this module with Matt’s help. I have observed Matt being willing and excited to help all cohort-mates whenever he is given the opportunity."   
+-- Jason Pilz (The *original* O.G.)
 
 ### Playing a Part  
 
 * Trying to help others on projects that I've done -- removing roadblocks and helping them move past pieces that they're stuck on.
+
+* Staying
 
 * Writing additional tests for the Headcount Spec Harness that the class needed to finish the project.  Also, spending 3+ hours on the night headcount was due to help people troubleshoot issues they were having with out tests.
 
