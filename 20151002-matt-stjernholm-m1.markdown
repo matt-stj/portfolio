@@ -78,9 +78,9 @@ Overall Score: 3
 * *Style is fine*
 
 ##### Organization: 4
-* *Tests in test dir, files in lib dir*
+* *Tests in test dir, files in lib dir/using git*
 * *Each class has its own file*
-* *Using git*
+
 *
 #### Linked List
 
@@ -113,8 +113,8 @@ Overall: 3
 
 ##### TDD: 4
 
-* *Tests all pass*
-* *Pretty good test names, could be a tad bit more descriptive*
+* *Tests all pass*  
+* *Pretty good test names, could be a tad bit more descriptive*  
 * *Use abstractions in test, too*
 
 ##### Encapsulation: 3
@@ -209,11 +209,14 @@ Teammate: Torie Joy-Warren
 
 ### Giving Feedback
 
-* For Ross Edfort - *"Ross was a great partner to pair with, and a lot of the success that we had on the project was likely due to our ability to work well together.  We both have similar work styles and we're on the same page with how much time and effort we intended to put in to headcount.  There were a lot of long stretches where we sat in front of the computer, stumped on a problem for hours, and relied on each other to keep putting one foot in front of the other.  After week of countless hours, expletive-filled-rants, and high fives, we learned a ton more about programming and also built rapport with one another that we likely would not have found otherwise.  Overall: great first experience for a pairing project!"*
+* For Ross Edfort -   
+*"Ross was a great partner to pair with, and a lot of the success that we had on the project was likely due to our ability to work well together.  We both have similar work styles and we're on the same page with how much time and effort we intended to put in to headcount.  There were a lot of long stretches where we sat in front of the computer, stumped on a problem for hours, and relied on each other to keep putting one foot in front of the other.  After week of countless hours, expletive-filled-rants, and high fives, we learned a ton more about programming and also built rapport with one another that we likely would not have found otherwise.  Overall: great first experience for a pairing project!"*
 
-* For Jason Pilz - *"Jason consistently pushed me to be a better student throughout Module 1.  His positive outlook and “you can do it” attitude is a big reason why I stuck around in the Echo group — which I’m extremely grateful for.  On top of that, Jason showed me countless keybinding shortcuts, Atom add-ons, and tricks that streamlined my workflow and made me more efficient.  Can’t imagine where I’d be without Jason, and I look forward to having him around next module!"*
+* For Jason Pilz -   
+*"Jason consistently pushed me to be a better student throughout Module 1.  His positive outlook and “you can do it” attitude is a big reason why I stuck around in the Echo group — which I’m extremely grateful for.  On top of that, Jason showed me countless keybinding shortcuts, Atom add-ons, and tricks that streamlined my workflow and made me more efficient.  Can’t imagine where I’d be without Jason, and I look forward to having him around next module!"*
 
-* For Torie Joy-Warren - *“Torie has been a great classmate and teammate for the entirety of our first module.  She was always willing to lend  helping hand when I had questions on things that she’d already figured out, and she was always patient and thorough with her explanations.  I was lucky enough to have Torie as a partner for multiple pairing exercises and one team project.  Her positive attitude and kind demeanor were always fun to be around, and I learned a great deal from her each time we’ve paired.  I’ve seen her act in this capacity, not only for me, but for many others in 1508 -- we’re lucky to have her."*
+* For Torie Joy-Warren -   
+*“Torie has been a great classmate and teammate for the entirety of our first module.  She was always willing to lend  helping hand when I had questions on things that she’d already figured out, and she was always patient and thorough with her explanations.  I was lucky enough to have Torie as a partner for multiple pairing exercises and one team project.  Her positive attitude and kind demeanor were always fun to be around, and I learned a great deal from her each time we’ve paired.  I’ve seen her act in this capacity, not only for me, but for many others in 1508 -- we’re lucky to have her."*
 
 ### Being a Community Member
 
