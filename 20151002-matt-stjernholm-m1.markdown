@@ -81,7 +81,6 @@ Overall Score: 3
 * *Tests in test dir, files in lib dir/using git*
 * *Each class has its own file*
 
-*
 #### Linked List
 
 * [GitHub URL](https://github.com/thew88/linked-lists)
