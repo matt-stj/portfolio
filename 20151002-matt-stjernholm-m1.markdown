@@ -28,19 +28,19 @@ Notes:
 
 * 3: Developer writes code that is easy to follow
 
-##### 3. Blocks & Enumerations - 4
+#####3. Blocks & Enumerations - 4
 
 * 4: Developer is able to consistently select and implement the best-choice enumerator methods with blocks
 
-##### 4. Testing - 3
+#####4. Testing - 3
 
 * 3: Developer uses tests to guide development in small chunks
 
-##### 5. Workflow - 3
+#####5. Workflow - 3
 
 * 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
 
-##### 6. Collaboration - 3
+#####6. Collaboration - 3
 
 * 3: Developer lays out their thinking *before* attacking a problem and integrates feedback through the process
 
@@ -84,7 +84,6 @@ Assessed By: Josh
 #### Linked List
 
 * [GitHub URL](https://github.com/thew88/linked-lists)
-* [Original Assignment]()
 
 (description)
 
@@ -101,7 +100,6 @@ Overall Score: 3
 #### Binary Search Tree
 
 * [GitHub URL](https://github.com/thew88/binary-search-tree)
-* [Original Assignment]()
 
 Assessed By: Josh
 
@@ -128,7 +126,6 @@ Assessed By: Josh
 #### Night Writer
 
 * [GitHub URL](https://github.com/thew88/night_writer)
-* [Original Assignment]()
 
 Assessed By: Jeff
 
@@ -149,7 +146,7 @@ Assessed By: Jeff
 
 ### Projects
 
-(Intro)
+Headcount was a beast.  I'm happy and proud to be finished with it :)
 
 #### (Project Name)
 
@@ -158,7 +155,37 @@ Assessed By: Jeff
 
 (description)
 
-(evaluation comments)
+Assessed By Josh
+Overall Score: 3
+
+#####1. Overall Functionality
+
+Score: 4
+
+* Passes all of the test harness methods, minus the two we discussed and decided should be changed just before sitting down to do this :P
+* Also, they wrote all the analysis methods (including the one that failed ;)
+
+#####2. Fundamental Ruby & Style
+
+Score: 3
+
+* I didn't have any issues with anything
+
+##### 3. Test-Driven Development
+
+Score: 4
+
+* All unit tests pass
+* "All" test harness tests pass
+* Listened to me rant nostalgically and inpirationally, if we're completely honest, about testing for like 20 minutes or something.
+
+##### 4. Breaking Logic into Components
+
+Score: 3
+
+* LoadCSV and DistrictRepository should ideally know very little about each other.
+* For example, we might make a DistrictRepository from some JSON data, or some SQL data,
+or a hash for a test. So lets not inherit from LoadCSV.
 
 (evaluation scores)
 
