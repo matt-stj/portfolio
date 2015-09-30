@@ -4,7 +4,7 @@
 
 ### Your Mission
 
-While I checked the bucket that I had 50-1000 hours of programming experience coming into turing, I still felt like the projects in Echo were always just a bit beyond my reach.  After struggling through Echo the first couple of weeks, I set my sights on completing module 1 without having to drop down to Foxtrot.  Despite banging my head into the keyboard for countless hours on these projects (and consistently feeling behind), I was satisfied with not only grinding it out through Echo, but for also working hard enough to never get lower than a 3 on an evaluation.  Looking ahead, I'm hoping the extra effort in Module 1 will translate to putting me one step closer to my main goal for post-Turing life -- being able to build anything that I can dream up.  
+While I checked the bucket that I had 50-1000 hours of programming experience coming into turing, I still felt like the projects in Echo were always just a bit beyond my reach.  After struggling through Echo the first couple of weeks, I set my sights on completing module 1 without having to drop down to Foxtrot.  Despite banging my head into the keyboard for countless hours on these projects (and consistently feeling behind), I was satisfied with not only grinding it out through Echo, but for being proud of the work that I submitted. Looking ahead, I'm hoping the extra effort in Module 1 will translate to putting me one step closer to my goal for post-Turing life of being able to build anything that I can dream up.  
 
 ### End of Module Assessment
 
@@ -50,17 +50,17 @@ Missed 1/2 day on afternoon of Friday, 9/4 for a wedding, but other than that I'
 
 ### Work
 
-Below are the individual projects that I completed:
+Below are the individual projects that I completed.  Despite banging my head against the keyboard for countless hours, I'm proud to be able to say that the hard work paid off and I didn't receive any 2's throughout module 1.
 
 #### Sorting Suite
 
 * [GitHub URL](https://github.com/thew88/Sorting-Suite)
 * [Original Assignment](https://github.com/turingschool/sorting-suite)
 
-The sorting-suite was a fun, but difficult first project for Echo. However, I think it really helped to galvanize the Echo group early on.  Most of the class came in on Saturday to meet with Josh and figure out what the hell we were doing, and I that seemd to set the pace for the rest of the module.
+The sorting-suite was a fun, but difficult first project for Echo. However, I do think it really helped to galvanize the Echo group early on.  Most of the class came in on Saturday to meet with Josh and figure out what we were doing, and that seemed to set the pace for the rest of the module.
 
 Assessed By: Josh  
-##### Overall Score: 3
+Overall Score: 3
 
 
 ##### Functional Expectations: 3
@@ -85,12 +85,13 @@ Assessed By: Josh
 #### Linked List
 
 * [GitHub URL](https://github.com/thew88/linked-lists)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown)
+* [OriginalAssignment](https://github.com/turingschool/curriculum/blob/master/source/projects/linked_lists.markdown)
 
-Was really tough to grasp at first, but as soon as I stopped trying to understand the ins-and-outs of linked lists/stated writing code, it became much easier.  Great intro to data structures.
+
+Was really tough to grasp at first, but as soon as I stopped trying to understand the ins-and-outs of linked lists/started writing code, it became much easier.  Great intro to data structures.
 
 Assessed By: Tess   
-##### Overall Score: 3
+Overall Score: 3
 
 * Functional Expectations: 4
 * TDD: 4
@@ -103,10 +104,10 @@ Assessed By: Tess
 * [GitHub URL](https://github.com/thew88/binary-search-tree)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
 
-Really proud with the progress that I was able to make on this project -- wthout using recusion.  Ended up writing a ton of code to make it all work, but feel like it came together really well.
+Really proud with the progress that I was able to make on this project, because I as away at a wedding the entire weekend. Ended up writing a ton of code to make it all work, but feel like it came together really well for the amount of time I had.
 
 Assessed By: Josh   
-##### Overall: 3
+Overall: 3
 
 ##### Functional Expectations :3
 
@@ -136,7 +137,7 @@ Assessed By: Josh
 One of the more frustrating projects for me -- made a ton of progress early on, but stalled out after a couple days because some of my File I/O "wiring" was wrong.
 
 Assessed By: Jeff   
-##### Overall Score: 3
+Overall Score: 3
 
 * *Like seeing 20 tests off the bat*
 * *Try to use fewer instance variables*
@@ -232,7 +233,7 @@ still caring a lot about the project. He didn't seem afraid to share ideas at al
 
 * It also felt good to write additional tests for the Headcount Spec Harness when the class needed them to finish the project.  Ross and I spent a few hours on the night before headcount was due to help people troubleshoot issues they were having with out tests.
 
-* Outside of coding-related-things I try my best to be a kind, decent human-being to everybody here. And when I'm I'm here late enough, I help out with putting dishes away at the end of the day.
+* Outside of coding-related-things I try my best to be a kind, decent human-being to everybody here. As for cleaning -- when I'm here late -- I help out with putting dishes away at the end of the day (and I've finally learned how to not get drenched when taking the plastic cups out of the dishwasher).
 
 ## Review
 
