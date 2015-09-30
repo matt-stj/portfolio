@@ -155,34 +155,26 @@ Headcount was a beast.  I'm happy and proud to be finished with it :)
 * https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown
 
 
-Assessed By Josh
+Assessed By Josh  
 Teammate: Ross Edfort
 Overall Score: 3
 
-#####1. Overall Functionality
-
-Score: 4
+#####1. Overall Functionality: 4
 
 * Passes all of the test harness methods, minus the two we discussed and decided should be changed just before sitting down to do this :P
 * Also, they wrote all the analysis methods (including the one that failed ;)
 
-#####2. Fundamental Ruby & Style
-
-Score: 3
+#####2. Fundamental Ruby & Style: 3
 
 * I didn't have any issues with anything
 
-##### 3. Test-Driven Development
-
-Score: 4
+##### 3. Test-Driven Development: 4
 
 * All unit tests pass
 * "All" test harness tests pass
 * Listened to me rant nostalgically and inpirationally, if we're completely honest, about testing for like 20 minutes or something.
 
-##### 4. Breaking Logic into Components
-
-Score: 3
+##### 4. Breaking Logic into Components: 3
 
 * LoadCSV and DistrictRepository should ideally know very little about each other.
 * For example, we might make a DistrictRepository from some JSON data, or some SQL data,
@@ -193,7 +185,9 @@ or a hash for a test. So lets not inherit from LoadCSV.
 
 ### Giving Feedback
 
-(feedback from me)
+* For Ross Edfort - "Ross was a great partner to pair with, and a lot of the success that we had on the project was likely due to our ability to work well together.  We both have similar work styles and we're on the same page with how much time and effort we intended to put in to headcount.  There were a lot of long stretches where we sat in front of the computer, stumped on a problem for hours, and relied on each other to keep putting one foot in front of the other.  After week of countless hours, expletive-filled-rants, and high fives, we learned a ton more about programming and also built rapport with one another that we likely would not have found otherwise.  Overall: great first experience for a pairing project!"
+
+* For Jason Pilz - "Jason consistently pushed me to be a better student throughout Module 1.  His positive outlook and “you can do it” attitude is a big reason why I stuck around in the Echo group — which I’m extremely grateful for.  On top of that, Jason showed me countless keybinding shortcuts, Atom add-ons, and tricks that streamlined my workflow and made me more efficient.  Can’t imagine where I’d be without Jason, and I look forward to having him around next module!"
 
 ### Being a Community Member
 
@@ -201,9 +195,9 @@ or a hash for a test. So lets not inherit from LoadCSV.
 
 * "Working with Matt during this module has been a pleasure. His motivation and dedication inspires me to continue to push when feeling tired or discouraged. I have improved my programming and pairing skills this module with Matt’s help. I have observed Matt being willing and excited to help all cohort-mates whenever he is given the opportunity." -- Jason Pilz (The *original* O.G.)
 
-### Playing a Part
+### Playing a Part  
 
-* Trying to help others on projects that I've done -- removing roadblocks and helping them move past pieces that had me banging my head against the keyboard for hours.
+* Trying to help others on projects that I've done -- removing roadblocks and helping them move past pieces that they're stuck on.
 
 * Writing additional tests for the Headcount Spec Harness that the class needed to finish the project.  Also, spending 3+ hours on the night headcount was due to help people troubleshoot issues they were having with out tests.
 
